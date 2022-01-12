@@ -31,7 +31,7 @@ class Son extends Father {
     }
 }
 
-public class Exception{
+public class throwException{
     public static void main (String[] args) {
         try{
             Son obj = new Son(25,45);
